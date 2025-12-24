@@ -1,0 +1,9 @@
+{
+  "name": "HealthBridge SA",
+  "description": "A comprehensive Health & Wellness platform designed for the South African market, offering telemedicine, pharmacy services, and AI-driven fitness and nutrition planning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
